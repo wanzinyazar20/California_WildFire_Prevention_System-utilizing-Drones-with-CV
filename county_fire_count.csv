@@ -1,0 +1,361 @@
+FIPS_NAME,FIRE_SIZE_CLASS,COUNT
+Trinity,G,23
+Siskiyou,G,19
+San Diego,G,13
+Lassen,G,9
+Los Angeles,G,9
+Riverside,G,9
+Shasta,G,9
+Plumas,G,8
+Tehama,G,8
+Humboldt,G,7
+Kern,G,6
+San Bernardino,G,6
+Santa Barbara,G,6
+Del Norte,G,5
+Fresno,G,5
+Inyo,G,4
+Lake,G,4
+Mono,G,4
+Monterey,G,4
+Placer,G,4
+Orange,G,3
+Butte,G,2
+Colusa,G,2
+El Dorado,G,2
+Glenn,G,2
+Madera,G,2
+Mariposa,G,2
+Mendocino,G,2
+Modoc,G,2
+Santa Clara,G,2
+Tulare,G,2
+Tuolumne,G,2
+Ventura,G,2
+Alpine,G,1
+Amador,G,1
+Napa,G,1
+Sacramento,G,1
+San Luis Obispo,G,1
+Sonoma,G,1
+Stanislaus,G,1
+San Diego,F,24
+Kern,F,22
+Los Angeles,F,15
+Riverside,F,15
+Trinity,F,15
+Lassen,F,14
+Shasta,F,14
+Tulare,F,13
+Siskiyou,F,11
+San Bernardino,F,10
+Butte,F,9
+Lake,F,8
+Modoc,F,8
+San Luis Obispo,F,8
+Humboldt,F,6
+Tehama,F,6
+Mono,F,5
+Inyo,F,4
+Mariposa,F,4
+Mendocino,F,4
+Plumas,F,4
+Santa Barbara,F,4
+Tuolumne,F,4
+Fresno,F,3
+Merced,F,3
+Monterey,F,3
+Orange,F,3
+Sierra,F,3
+Nevada,F,2
+Placer,F,2
+Ventura,F,2
+Yolo,F,2
+Alpine,F,1
+Calaveras,F,1
+Colusa,F,1
+El Dorado,F,1
+Imperial,F,1
+Kings,F,1
+Napa,F,1
+San Benito,F,1
+Santa Clara,F,1
+Sonoma,F,1
+Stanislaus,F,1
+Yuba,F,1
+Kern,E,37
+Riverside,E,22
+San Bernardino,E,17
+Lassen,E,14
+Modoc,E,14
+San Diego,E,14
+Butte,E,13
+Los Angeles,E,12
+Siskiyou,E,10
+Plumas,E,9
+Santa Barbara,E,9
+Trinity,E,9
+Inyo,E,8
+Shasta,E,8
+Humboldt,E,7
+Lake,E,7
+Madera,E,7
+Merced,E,7
+Mono,E,7
+Tehama,E,7
+Tulare,E,7
+Monterey,E,6
+Yolo,E,6
+Fresno,E,5
+Tuolumne,E,5
+Mendocino,E,4
+Napa,E,4
+Placer,E,4
+Sierra,E,4
+Alameda,E,3
+Del Norte,E,3
+El Dorado,E,3
+Orange,E,3
+San Benito,E,3
+San Luis Obispo,E,3
+Ventura,E,3
+Yuba,E,3
+Alpine,E,2
+Marin,E,2
+Mariposa,E,2
+Sacramento,E,2
+Stanislaus,E,2
+Amador,E,1
+Calaveras,E,1
+Colusa,E,1
+Glenn,E,1
+Imperial,E,1
+San Joaquin,E,1
+Santa Clara,E,1
+Solano,E,1
+Riverside,D,58
+San Diego,D,40
+San Bernardino,D,39
+Kern,D,29
+Los Angeles,D,28
+Fresno,D,23
+Lassen,D,22
+Siskiyou,D,20
+Tehama,D,19
+Shasta,D,18
+Tulare,D,18
+Butte,D,16
+Merced,D,15
+El Dorado,D,14
+Tuolumne,D,14
+Calaveras,D,12
+Humboldt,D,11
+Modoc,D,11
+Monterey,D,10
+Plumas,D,10
+Trinity,D,10
+Yolo,D,10
+Yuba,D,9
+Mariposa,D,8
+Inyo,D,7
+Madera,D,7
+Imperial,D,6
+Lake,D,6
+Mendocino,D,6
+Contra Costa,D,5
+Glenn,D,5
+Napa,D,5
+Placer,D,5
+Solano,D,5
+Alameda,D,4
+Amador,D,4
+Santa Barbara,D,4
+Stanislaus,D,4
+Orange,D,3
+Sonoma,D,3
+Colusa,D,2
+Nevada,D,2
+Sacramento,D,2
+San Joaquin,D,2
+San Luis Obispo,D,2
+Sierra,D,2
+Sutter,D,2
+Ventura,D,2
+Alpine,D,1
+Mono,D,1
+San Benito,D,1
+Santa Clara,D,1
+Santa Cruz,D,1
+Riverside,C,200
+Kern,C,135
+San Diego,C,113
+Shasta,C,101
+Fresno,C,100
+Los Angeles,C,97
+San Bernardino,C,97
+Siskiyou,C,75
+Butte,C,74
+El Dorado,C,69
+Modoc,C,66
+Tehama,C,64
+Trinity,C,61
+Lassen,C,59
+Calaveras,C,58
+Tulare,C,58
+Madera,C,56
+Tuolumne,C,54
+Lake,C,41
+Monterey,C,36
+Plumas,C,35
+Alameda,C,34
+Merced,C,32
+Placer,C,32
+San Luis Obispo,C,32
+Mono,C,30
+Humboldt,C,29
+Mendocino,C,28
+Mariposa,C,26
+Stanislaus,C,26
+Contra Costa,C,25
+Napa,C,25
+Yuba,C,24
+Amador,C,22
+Nevada,C,21
+Sonoma,C,20
+San Joaquin,C,18
+Santa Barbara,C,18
+Solano,C,17
+Inyo,C,16
+San Benito,C,16
+Sacramento,C,15
+Ventura,C,14
+Colusa,C,13
+Orange,C,12
+Santa Clara,C,10
+Yolo,C,10
+Alpine,C,9
+Imperial,C,9
+Sierra,C,9
+Del Norte,C,7
+Kings,C,7
+Glenn,C,6
+San Mateo,C,3
+Sutter,C,2
+Santa Cruz,C,1
+Riverside,B,2104
+Fresno,B,1050
+Shasta,B,869
+El Dorado,B,764
+Los Angeles,B,739
+San Diego,B,734
+Butte,B,719
+San Bernardino,B,647
+Kern,B,631
+Siskiyou,B,545
+Madera,B,522
+Merced,B,517
+Tuolumne,B,513
+Placer,B,510
+Calaveras,B,502
+Tehama,B,501
+Trinity,B,424
+Lassen,B,419
+Mendocino,B,413
+Nevada,B,406
+Humboldt,B,381
+Modoc,B,341
+San Luis Obispo,B,323
+Yuba,B,281
+Sonoma,B,271
+Tulare,B,268
+Lake,B,265
+Plumas,B,237
+Monterey,B,222
+Mariposa,B,214
+Amador,B,198
+Napa,B,182
+Contra Costa,B,170
+Sacramento,B,159
+Santa Clara,B,154
+Inyo,B,140
+Stanislaus,B,133
+San Joaquin,B,118
+Santa Cruz,B,117
+Mono,B,109
+Alameda,B,106
+Sierra,B,84
+San Benito,B,83
+Yolo,B,76
+Santa Barbara,B,68
+Del Norte,B,65
+Alpine,B,63
+Orange,B,63
+Solano,B,59
+Colusa,B,53
+San Mateo,B,52
+Kings,B,43
+Imperial,B,41
+Glenn,B,40
+Ventura,B,32
+Marin,B,18
+Sutter,B,13
+San Francisco,B,11
+Douglas,B,1
+Riverside,A,4517
+San Bernardino,A,1826
+El Dorado,A,1823
+Los Angeles,A,1803
+San Diego,A,1505
+Siskiyou,A,1476
+Placer,A,1132
+Shasta,A,1099
+Lassen,A,1015
+Fresno,A,997
+Butte,A,935
+Tuolumne,A,916
+Kern,A,877
+Plumas,A,841
+Nevada,A,829
+Madera,A,812
+Trinity,A,713
+Modoc,A,707
+Merced,A,696
+Humboldt,A,606
+Mono,A,517
+Calaveras,A,511
+Tulare,A,461
+Mendocino,A,451
+Sonoma,A,434
+Sierra,A,405
+Tehama,A,400
+Monterey,A,379
+Amador,A,365
+San Luis Obispo,A,357
+Orange,A,330
+Santa Cruz,A,330
+Contra Costa,A,294
+Lake,A,268
+Inyo,A,263
+Sacramento,A,263
+Alpine,A,260
+Napa,A,231
+Mariposa,A,230
+Yuba,A,223
+Santa Clara,A,194
+San Joaquin,A,167
+Del Norte,A,158
+Alameda,A,154
+San Mateo,A,141
+Yolo,A,133
+Santa Barbara,A,127
+Imperial,A,117
+Stanislaus,A,88
+Ventura,A,77
+Kings,A,68
+Solano,A,67
+San Benito,A,53
+Sutter,A,51
+Marin,A,49
+Glenn,A,40
+Colusa,A,39
+San Francisco,A,4
